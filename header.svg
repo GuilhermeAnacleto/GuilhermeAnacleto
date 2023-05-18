@@ -77,7 +77,11 @@
 			<div class="container">
         <div class="wrapper">
             <div class="typing-demo">
+<<<<<<< HEAD
             Olá, eu sou <b>Guilherme Anacleto</b>
+=======
+              Olá, eu sou <b>Guilherme Anacleto</b>.
+>>>>>>> 4e6bc838ac7a05bba0c1f2ea47bcff99fd092874
             </div>          
         </div>
 			</div>
